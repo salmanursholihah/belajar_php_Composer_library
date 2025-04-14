@@ -1,5 +1,5 @@
 <?php
-namespace Salma\BelajarPhpComposerLibrary;
+namespace salma\composerlib;
 
 class customer{
     public function __construct (private string $name)
