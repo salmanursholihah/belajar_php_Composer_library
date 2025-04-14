@@ -1,0 +1,19 @@
+{
+    "name": "salma/belajar_php_composer_library",
+    "description": "belajar php composer library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Salma\\BelajarPhpComposerLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "salmanursholihah",
+            "email": "salmanursholihah@gmail.com"
+        }
+    ],
+    "require": {
+           "php": ">=8.0"
+    }
+}
